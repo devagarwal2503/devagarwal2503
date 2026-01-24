@@ -1,30 +1,32 @@
 # 👋 Hi, I'm Dev Agarwal
 
-🎯 Aspiring Data Analyst | Python • SQL • Excel • Tableau | Data Science Trainee @ IIT Guwahati x Masai School  
-🔍 I turn messy data into meaningful insights & dashboards that drive decisions.
+🎯 Data Analyst | SQL • Excel • Python • Power BI • Tableau
+🔍 I work with real-world datasets to uncover insights, track KPIs, and build dashboards that support data-driven decisions.
 
 ---
 
 ## 🔧 Tech Stack
-- **Programming & Tools:** Python (pandas, NumPy, matplotlib, seaborn), SQL, Git, GitHub
-- **Visualization:** Excel, Tableau, Power BI
-- **Other Tools:** VS Code, Google Sheets, Jupyter Notebooks
+- **SQL:** Joins, Subqueries, CTEs, Window Functions
+- **Excel:** Pivot Tables, Lookups (VLOOKUP/XLOOKUP), Data Cleaning, KPI Models  
+- **BI & Visualization:** Power BI (Data Modeling, DAX), Tableau (Dashboards, KPI Visualizations)
+- **Python:** pandas, NumPy, Exploratory Data Analysis (EDA)
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
 ## 📁 Featured Projects
 
-- 📊 **Phone Usage Analysis** – [Coming Soon]  
-  Analyzed real-life screen time data to find patterns in app usage using Excel & Python.
+- 🛒 **Customer Churn & Cohort Analysis**  
+  A data-driven study to understand customer churn patterns and cohort-level retention behavior to support informed retention decisions.
+
+- 📈 **Revenue Leakage & Customer Retention Analysis** 
+  An end-to-end analysis focused on identifying revenue leakage and retention gaps across customer segments using transactional data.
 
 - 💬 [**Divine Chats**](https://github.com/devagarwal2503/Divine-Chats)  
   A real-time chat app built with PHP, MySQL, and JavaScript. Includes authentication and user management.
 
-- 🛒 **E-commerce SQL Case Study** – [Coming Soon]  
-  Solving real business questions using SQL: revenue by category, best sellers, customer retention, and more.
-
-- 📈 **Sales Dashboard** – [Coming Soon]  
-  A dynamic dashboard built in Power BI/Excel to visualize regional sales performance and KPIs.
+- 📊 **Phone Usage Analysis** – [Coming Soon]  
+  Analyzed real-life screen time data to find patterns in app usage using Excel & Python.
 
 ---
 
