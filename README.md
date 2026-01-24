@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dev Agarwal
 
-🎯 Data Analyst | SQL • Excel • Python • Power BI • Tableau
+🎯 Data Analyst | SQL • Excel • Python • Power BI • Tableau  
 🔍 I work with real-world datasets to uncover insights, track KPIs, and build dashboards that support data-driven decisions.
 
 ---
@@ -25,7 +25,7 @@
 - 💬 [**Divine Chats**](https://github.com/devagarwal2503/Divine-Chats)  
   A real-time chat app built with PHP, MySQL, and JavaScript. Includes authentication and user management.
 
-- 📊 **Phone Usage Analysis** – [Coming Soon]  
+- 📊 **Phone Usage Analysis** 
   Analyzed real-life screen time data to find patterns in app usage using Excel & Python.
 
 ---
