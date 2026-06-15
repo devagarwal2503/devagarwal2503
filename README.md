@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dev Agarwal
 
-🎯 Flutter Developer | Dart • Firebase • Supabase • REST APIs • BLoC/Provider\n
-📱 I build cross-platform mobile apps for Android & iOS — from production HRMS modules to e-commerce flows with payment integration.\n
+🎯 Flutter Developer | Dart • Firebase • Supabase • REST APIs • BLoC/Provider  
+📱 I build cross-platform mobile apps for Android & iOS — from production HRMS modules to e-commerce flows with payment integration.  
 🤖 Currently expanding into AI Automation with n8n and RAG-based agents.
 
 ---
