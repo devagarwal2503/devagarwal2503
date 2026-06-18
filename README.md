@@ -20,7 +20,7 @@
 
 ## 📁 Featured Projects
 
-- 🛍️ **E-Commerce Mobile App**
+- 🛍️ [**E-Commerce Mobile App**](https://github.com/devagarwal2503/e_commerce_app)
   Full-featured Flutter app with onboarding, Firebase Auth, product catalogue, cart, and Razorpay payment simulation. Includes Flutter Slivers UI, l10n localization, and Supabase backend.
 
 - 🏢 **HRMS Leave Management Module**
